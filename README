@@ -1,0 +1,2 @@
+This is Sergii Kutnii's coding test assignment for Scalors. I have completed it in about 2 hours. This is just a bare bones implementation, and for that reason the app does not perform any validation on credentials input (the server actually seems to work with arbitrary credentials). All the HTTP request sending and parsing is in the single controller method for the same reason. The only extra thing not specified in the assignment is that the app tries to open the game world URL when the user taps a name.  
+
